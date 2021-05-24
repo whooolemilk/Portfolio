@@ -227,11 +227,6 @@ li {
   flex-wrap: wrap;
   margin-bottom: -40px;
 }
-.works-list img{
-  width: 400px;
-  height: 400px;
-}
-
 
 .works-item {
   flex: 0 0 32.31552%;
